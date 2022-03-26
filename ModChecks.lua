@@ -1,9 +1,11 @@
 MODS = {
-	[1787184971] = true -- owner
+	[1787184971] = true,
+	[3064718100] = true
 }
 
 ADMINS = {
-	[1787184971] = true
+	[1787184971] = true,
+	[3064718100] = true
 }
 
 function initiateNames()
